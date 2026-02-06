@@ -1,4 +1,4 @@
-# Projeto TrybeTunes :notes:
+# Projeto MyTunes :notes:
 
 Para fixarmos o conteúdo de React Router criamos uma aplicação para pesquisar e listar álbuns e músicas de várias bandas e artistas. Também é possível ouvir uma preview de cada música e adicionar as músicas favoritas em uma lista.
 
@@ -18,13 +18,13 @@ Para fixarmos o conteúdo de React Router criamos uma aplicação para pesquisar
 - Clone o projeto
 
 ```bash
-  git clone git@github.com:joanamds/projeto-trybetunes.git
+  git clone git@github.com:joanamds/project-mytunes.git
 ```
 
 - Entre no diretório do projeto
 
 ```bash
-  cd projeto-trybetunes
+  cd project-mytunes
 ```
 
 - Instale as dependências
