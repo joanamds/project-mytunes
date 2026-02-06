@@ -23,7 +23,7 @@
   "start": "react-scripts start",
   "build": "DISABLE_ESLINT_PLUGIN=true CI=false react-scripts build",
   "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
+  "deploy": "gh-pages -d build --clean --branch gh-pages",
   "test": "react-scripts test",
   "eject": "react-scripts eject"
 },
