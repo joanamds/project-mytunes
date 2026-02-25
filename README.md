@@ -2,7 +2,7 @@
 
 Para fixarmos o conteúdo de React Router criamos uma aplicação para pesquisar e listar álbuns e músicas de várias bandas e artistas. Também é possível ouvir uma preview de cada música e adicionar as músicas favoritas em uma lista.
 
-[trybetunes.webm](https://user-images.githubusercontent.com/106452876/230174875-29d2fc8e-7b13-432f-afcb-7b7dc11b93d7.webm)
+[recording.webm](https://github.com/user-attachments/assets/8ac20537-d3a2-4412-ab2c-939202f591dc)
 
 <details>
   <summary> <strong> 📡 A API utilizada e seus endpoints </strong></summary>
@@ -47,7 +47,7 @@ Para fixarmos o conteúdo de React Router criamos uma aplicação para pesquisar
 
 ## Tecnologias usadas
 Front-end:
-> Desenvolvido usando: React, CSS3, HTML5, ES6
+> Desenvolvido usando: React, CSS3, HTML5, ES6, MUI
 
 :warning: OBS: Acabei por não desenvolver a tela de Perfil. 
 
